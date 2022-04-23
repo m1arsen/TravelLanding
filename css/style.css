@@ -711,7 +711,7 @@ img {
     font-size: 16px;
     line-height: 24px;
 
-    background: url(/img/svg/Shape.svg) no-repeat 95% center;
+    background: url(../img/svg/Shape.svg) no-repeat 95% center;
 
     text-decoration: none;
     transition: .2s;
@@ -719,7 +719,7 @@ img {
 
 .benefits-card-more:hover,
 .benefits-card-more:focus {
-    background: url(/img/svg/Shape.svg) no-repeat right center;
+    background: url(../img/svg/Shape.svg) no-repeat right center;
 }
 
 /* 4).places
@@ -750,7 +750,7 @@ img {
     font-size: 16px;
     line-height: 24px;
 
-    background: url(/img/svg/Shape.svg) no-repeat right center;
+    background: url(../img/svg/Shape.svg) no-repeat right center;
 
     text-decoration: none;
 }
@@ -880,14 +880,14 @@ img {
     color: #006DFE;
 
     text-decoration: none;
-    background: url(/img/svg/Shape.svg) no-repeat 95% center;
+    background: url(../img/svg/Shape.svg) no-repeat 95% center;
 
     transition: .2s;
 }
 
 .tour-more:hover,
 .tour-more:focus {
-    background: url(/img/svg/Shape.svg) no-repeat right center;
+    background: url(../img/svg/Shape.svg) no-repeat right center;
 }
 
 
@@ -948,12 +948,12 @@ img {
 .top-card-likes {
     padding-right: 20px;
     margin-right: 15px;
-    background: url(/img/svg/like.svg) no-repeat right center;
+    background: url(../img/svg/like.svg) no-repeat right center;
 }
 
 .top-card-comments {
     padding-right: 23px;
-    background: url(/img/svg/comments.svg) no-repeat right center;
+    background: url(../img/svg/comments.svg) no-repeat right center;
 }
 
 .top-card-desc {
