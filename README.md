@@ -1,2 +1,6 @@
-# Travel Landing
-https://m1arsen.github.io/travel-landing/
+# Одностраничный сайт [Traveling in Japan](https://m1arsen.github.io/travel-landing/)
+- Есть адаптив до 320px
+- Сайт кроссбраузерный
+- CSS код минифицирован
+- Все изображения оптимизированы
+- Плавный скролл к различным элеменетам
